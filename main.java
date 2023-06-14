@@ -5,4 +5,7 @@ public class main {
     int userNum2;
     int userNum3;
     int userNum4;
+
+    String gameNum1;
+    String gameNum2;
 }
