@@ -5,4 +5,6 @@ public class main {
     int userNum2;
     int userNum3;
     int userNum4;
+    int userNum5;
+    int userNum6;
 }
